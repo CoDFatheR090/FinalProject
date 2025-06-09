@@ -16,8 +16,6 @@ Protagonist: The Last Herald: Players embody a custom-named protagonist, startin
 Strategic Turn-Based Combat: Engage in tactical encounters against formidable Fallen Lords. The combat system emphasizes player choices (attack, consume flesh) and incorporates a critical hit mechanic, adding a layer of unpredictability and impact to each turn. 🎯💥
 
 
-(Note: This is a placeholder image for a console combat screenshot)
-
 Unique Madness Mechanic: A core thematic element where consuming "forbidden flesh" offers minor health recovery but increases the player's MadnessLevel. This mechanic introduces a risk-reward dynamic, subtly influencing gameplay and reinforcing the dark fantasy theme by having consequences for dabbling in forbidden powers. 🧠🍖
 
 Foundational Inventory System: Explore the ruins to discover and collect unique Item objects, which are managed and displayed through a simple yet functional inventory. This provides a clear mechanism for player progression and discovery. 🎒💎
