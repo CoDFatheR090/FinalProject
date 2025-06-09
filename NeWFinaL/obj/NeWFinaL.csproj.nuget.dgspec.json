@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rinos\\OneDrive\\Desktop\\Project\\FinalProject\\new\\new.csproj": {}
+    "C:\\Users\\rinos\\source\\repos\\NeWFinaL\\NeWFinaL\\NeWFinaL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rinos\\OneDrive\\Desktop\\Project\\FinalProject\\new\\new.csproj": {
+    "C:\\Users\\rinos\\source\\repos\\NeWFinaL\\NeWFinaL\\NeWFinaL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rinos\\OneDrive\\Desktop\\Project\\FinalProject\\new\\new.csproj",
-        "projectName": "new",
-        "projectPath": "C:\\Users\\rinos\\OneDrive\\Desktop\\Project\\FinalProject\\new\\new.csproj",
+        "projectUniqueName": "C:\\Users\\rinos\\source\\repos\\NeWFinaL\\NeWFinaL\\NeWFinaL.csproj",
+        "projectName": "NeWFinaL",
+        "projectPath": "C:\\Users\\rinos\\source\\repos\\NeWFinaL\\NeWFinaL\\NeWFinaL.csproj",
         "packagesPath": "C:\\Users\\rinos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rinos\\OneDrive\\Desktop\\Project\\FinalProject\\new\\obj\\",
+        "outputPath": "C:\\Users\\rinos\\source\\repos\\NeWFinaL\\NeWFinaL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

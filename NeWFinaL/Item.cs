@@ -1,5 +1,6 @@
-﻿namespace Final_Project__RPG_
+﻿
 
+namespace Final_Project__RPG_
 {
     public class Item
     {

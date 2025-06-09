@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\rinos\\OneDrive\\Desktop\\Project\\FinalProject\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{167FEB36-B40E-46A3-AEC3-96E74D3CB31A}|new\\new.csproj|c:\\users\\rinos\\onedrive\\desktop\\project\\finalproject\\new\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167FEB36-B40E-46A3-AEC3-96E74D3CB31A}|new\\new.csproj|solutionrelative:new\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167FEB36-B40E-46A3-AEC3-96E74D3CB31A}|new\\new.csproj|c:\\users\\rinos\\onedrive\\desktop\\project\\finalproject\\new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167FEB36-B40E-46A3-AEC3-96E74D3CB31A}|new\\new.csproj|solutionrelative:new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rinos\\OneDrive\\Desktop\\Project\\FinalProject\\new\\Program.cs",
+              "RelativeDocumentMoniker": "new\\Program.cs",
+              "ToolTip": "C:\\Users\\rinos\\OneDrive\\Desktop\\Project\\FinalProject\\new\\Program.cs",
+              "RelativeToolTip": "new\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T01:36:23.249Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\rinos\\OneDrive\\Desktop\\Project\\FinalProject\\new\\Game.cs",
+              "RelativeDocumentMoniker": "new\\Game.cs",
+              "ToolTip": "C:\\Users\\rinos\\OneDrive\\Desktop\\Project\\FinalProject\\new\\Game.cs",
+              "RelativeToolTip": "new\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T00:52:39.548Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,10 +1,10 @@
-﻿namespace Final_Project__RPG_
+﻿
 
+namespace Final_Project__RPG_
 {
     public class Inventory
     {
-        private List<Item> items = new List<Item>();
-
+        private List<Item> items = new List<Item>(); 
         public void AddItem(Item item)
         {
             items.Add(item);
